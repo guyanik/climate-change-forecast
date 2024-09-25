@@ -18,10 +18,10 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 ## Key Findings
 
 - The pre-industrial average global surface temperature (1850-1900) was approximately 15.0°C.
-- There is a clear upward trend in global temperatures over the analyzed period.
+- There is a clear upward trend in global temperatures over the analysed period.
 - The SARIMA model predicts a 4.3°C increase in average global surface temperature by the year 2100 compared to pre-industrial levels by tuning the hyperparameters for the worst case scenario.
 
-## Visualizations
+## Visualisations
 
 ### Global Temperature Variation (1850-2015)
 ![Global Temperature Variation](images/global_temp_variation.png)
