@@ -455,15 +455,3 @@ plt.show()
 
 
 # I hope you like this analysis. If you have any doubt or comment, feel free to contact me via [github](https://github.com/guyanik).
-
-# In[37]:
-
-
-monthly_forecast.tail(12)
-
-
-# In[ ]:
-
-
-
-
