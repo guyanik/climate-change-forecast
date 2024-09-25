@@ -64,7 +64,7 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 
 ## Future Work
 
-- Incorporate additional climate variables (e.g., CO2 levels, solar activity)
+- Incorporate additional climate variables (e.g., CO<sub>2</sub> levels, solar activity)
 - Explore ensemble methods for improved forecasting
 - Analyse regional temperature variations
 
