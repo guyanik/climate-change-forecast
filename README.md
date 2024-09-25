@@ -68,10 +68,6 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 - Explore ensemble methods for improved forecasting
 - Analyse regional temperature variations
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/climate-change-forecast/issues) if you want to contribute.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
