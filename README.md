@@ -1,4 +1,4 @@
-# Climate Change Forecast using SARIMA
+# Climate Change Forecast with SARIMA
 
 This project uses [Seasonal ARIMA (SARIMA)](https://online.stat.psu.edu/stat510/lesson/4/4.1) models to forecast global average temperatures based on historical data from 1850 to 2015. The analysis aims to predict future temperature trends and quantify potential climate change impacts.
 
