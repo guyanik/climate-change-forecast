@@ -41,7 +41,7 @@ base_average = sum(df.Temp[:600])/600
 print('Pre-industrial average global surface temperature is ', str(round(base_average, 1)) + '.')
 
 
-# Below I'll try to make a brief explanation about ARIMA models:
+# Below is a brief explanation about ARIMA models:
 # 
 # # <font color=green>SARIMA Model (p, d, q)(P, D, Q, S)</font>:
 # SARIMA stands for Seasonal Auto Regressive Integrated Moving Average.
