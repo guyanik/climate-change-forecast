@@ -440,16 +440,30 @@ print(f'The baseline RMSE for the test baseline was {round(rmse_test_base, 4)} c
 print(f'The baseline RMSE for the test extrapolation was {round(rmse_test_extrap, 4)} celsius.')
 
 
-# In[25]:
+# In[38]:
 
 
 # check out the predicted values for the next years
 # print('{} celsius increase is expected for the average land surface temperature by the year 2100.'.format(round(sum(test['Pred'][-12:])/12 - base_average, 1)))
 
-monthly_forecast = result.forecast(steps=12*86)
+monthly_forecast = result.forecast(steps=12*87)
 print(round(sum(monthly_forecast[-12:])/12 - base_average, 1) ,'celsius increase is expected for the average global surface temperature by the year 2100.')
-monthly_forecast.plot(figsize=(20,10))
+monthly_forecast.plot(figsize=(20,10), title='Monthly Forecasted Temperatures')
+ticks = [str(x) + "-01-01" for x in range(2015,2101,5)]
+plt.xticks(ticks, labels=[x for x in range(2015,2101,5)])
 plt.show()
 
 
 # I hope you like this analysis. If you have any doubt or comment, feel free to contact me via [github](https://github.com/guyanik).
+
+# In[37]:
+
+
+monthly_forecast.tail(12)
+
+
+# In[ ]:
+
+
+
+
