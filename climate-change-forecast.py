@@ -28,7 +28,7 @@ warnings.filterwarnings('ignore')
 
 
 # reading and transforming the file
-df = pd.read_csv("global-temperatures.csv", parse_dates = True, index_col=0)
+df = pd.read_csv("data/global-temperatures.csv", parse_dates = True, index_col=0)
 df.head()
 
 
