@@ -70,10 +70,10 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Berkeley Earth for providing the temperature dataset
-- Kaggle for hosting the data
-- Leandro Rabelo for the initial inspiration
+- [Berkeley Earth](https://berkeleyearth.org/) for providing the temperature dataset
+- [Kaggle](https://www.kaggle.com/) for hosting the data
+- [Leandro Rabelo](https://www.kaggle.com/code/leandrovrabelo/climate-change-forecast-sarima-model/notebook) for the initial inspiration
