@@ -23,19 +23,19 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 
 ## Visualisations
 
-### Global Temperature Variation (1850-2015)
+### Monthly Average Global Temperature Variation (1850-2015)
 ![Global Temperature Variation](images/global_temp_variation.png)
 
-### Monthly Global Temperatures (Colours go from blue to red as years progress)
+### Monthly Average Global Temperatures (Colours go from blue to red as years progress)
 ![Monthly Global Temperatures](images/monthly_global_temps.png)
 
-### Yearly Average Temperatures
+### Yearly Average Global Temperatures
 ![Yearly Average Temperatures](images/yearly_avg_temps.png)
 
-### SARIMA Model Forecast vs Actual (Test Set)
+### SARIMA Model Forecast vs. True Temperatures (Test Set)
 ![SARIMA Forecast vs Actual](images/sarima_forecast_vs_actual.png)
 
-### Long-term Temperature Forecast
+### Long-term Temperature Forecast (2015-2100)
 ![Long-term Temperature Forecast](images/long_term_forecast.png)
 
 ## Model Performance
