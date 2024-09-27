@@ -26,7 +26,7 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 ### Global Temperature Variation (1850-2015)
 ![Global Temperature Variation](images/global_temp_variation.png)
 
-### Monthly Global Temperatures
+### Monthly Global Temperatures (Colour goes from blue to red as years progress)
 ![Monthly Global Temperatures](images/monthly_global_temps.png)
 
 ### Yearly Average Temperatures
@@ -42,8 +42,8 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 
 - The SARIMA model outperformed the baseline in both validation and test sets.
 - Test Set RMSE:
-  - Baseline: 0.6402°C
-  - SARIMA model: 0.1584°C
+  - Baseline: 0.6534°C
+  - SARIMA model: 0.1049°C
 
 ## Dependencies
 
