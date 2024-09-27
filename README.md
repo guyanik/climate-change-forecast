@@ -23,7 +23,7 @@ The analysis uses the [Berkeley Earth dataset](https://www.kaggle.com/datasets/b
 
 ## Visualisations
 
-### Monthly Average Global Temperature Variation (1850-2015)
+### Average Global Temperature Variation (1850-2015)
 ![Global Temperature Variation](images/global_temp_variation.png)
 
 ### Monthly Average Global Temperatures (Colours go from blue to red as years progress)
